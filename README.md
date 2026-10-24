@@ -14,5 +14,4 @@ My LeetCode solutions in C++, organized by pattern. I follow a 12-phase DSA road
 
 1. Try the problem on my own for 20 to 30 minutes, starting with brute force.
 2. If stuck, look only at a hint or the pattern name, then try again.
-3. After solving, write the header above and add a row to this README.
-4. Solve it again after 3 days and after 7 days without looking.
+3. Solve it again after 3 days and after 7 days without looking.
